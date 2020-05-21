@@ -8,12 +8,12 @@ It’s so basic that all configuration is done within the script itself:
 
 Define paths to be scanned under the OnGUI method:
 
-`this.sources.Add("/Volumes/external/work/_unity object lib");`
-`this.sources.Add("/Users/charlie/Documents/_primitves");`
+`this.sources.Add("/Volumes/external/work/_unity object lib");
+this.sources.Add("/Users/charlie/Documents/_primitves");`
 
 Define what file extensions will be included:
 
-`this.acceptable.Add(".obj");`
-`this.acceptable.Add(".fbx");`
+`this.acceptable.Add(".obj");
+this.acceptable.Add(".fbx");`
 
 Very very basic stuff, but I find it useful...
