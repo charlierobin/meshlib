@@ -18,5 +18,5 @@ Define what file extensions will be included:
 
 New items are added at the top level of the assets folder. If there is something already there with the same name, the import is cancelled. (If you’ve moved an item that you’ve imported into another folder, or renamed it, another new one will be imported.)
 
-Very very basic stuff, but I find it useful...
+Very very basic stuff, not a lot of finesse to it, but I find it useful...
 
